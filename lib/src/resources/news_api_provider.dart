@@ -20,4 +20,3 @@ class NewsApiProvider {
     return ItemModel.fromJson(parsedJson);
   }
 }
-// 2532
